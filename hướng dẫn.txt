@@ -1,0 +1,3 @@
+dùng windows thì cài python đã
+Cần cài các thư viện sau và lệnh chạy:
+pip install pandas numpy scikit-learn matplotlib
